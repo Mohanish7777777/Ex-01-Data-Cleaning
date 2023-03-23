@@ -64,4 +64,5 @@ df.isnull().sum()
 # OUPUT
 ![output1](https://user-images.githubusercontent.com/111619160/227110890-d0062974-4a9b-491e-8184-b686e666fa00.png)
 
+![output2)](https://user-images.githubusercontent.com/111619160/227111735-6b92306e-dc37-4c82-90ef-15cdf52b79b3.png)
 
